@@ -1,7 +1,6 @@
 #ifndef FILEIO_H
 #define FILEIO_H
 
-#include <iostream>
 #include <string>
 #include <vector>
 #include "constants.h"
