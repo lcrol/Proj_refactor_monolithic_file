@@ -1,0 +1,22 @@
+//============================================================================
+// Name        : proj_refactor_file
+// Author      : 
+// Version     :
+// Copyright   : Steal this code!
+// Description : learn how to refactor files into a sensible directory structure
+//============================================================================
+#include <iostream>
+#include <string>
+#include <vector>
+
+//============================================================================
+// Name        : proj_refactor_file
+// Author      : 
+// Version     :
+// Copyright   : Steal this code!
+// Description : learn how to refactor files into a sensible directory structure
+//============================================================================
+#include <iostream>
+#include <string>
+#include <vector>
+
