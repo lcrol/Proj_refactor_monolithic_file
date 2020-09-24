@@ -21,4 +21,4 @@ proj_refactor_file.o: proj_refactor_file.cpp ../includes/fileio.h ../includes/ut
 
 #TODO type 'make clean' to remove myexe and all .o files	
 clean:
-	$(RM) count *.o *~
+	$(RM) proj_refactor_file *.o *~
